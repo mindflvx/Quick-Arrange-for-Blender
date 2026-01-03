@@ -1,4 +1,4 @@
-A simple script to quickly arrange and view selected objects in a row and then restore their original position, useful for example when working with scatter objects.
+A simple script to quickly arrange and view selected objects in a row and then restore their original position, useful for example when working with scatter objects as you will want to quickly visualize them individually without messing with their transforms.
 
 Has some additional quality of life features like automatic or manual padding and various sorting methods (from largest to smaller, or tallest to shortest, etc.).
 
